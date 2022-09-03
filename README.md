@@ -20,8 +20,8 @@ A partnership with W.Avy to open a Surf and Ice Cream shop on the island of Oahu
 
 Some data points to note from the above images:
 - The average temperature is 75°F in June and 71°F in December. The difference of the temperatures is approximately -5%.
-- Minimum temperature is 64°F in June and 56°F in December. This suggests it is much cooler in the mornings and evenings in December.
-- Maximum temperature is 85°F in June and 83°F in December. This suggests that while December mornings are cooler, the potential high temperature is nearly the same as it is in June.
+- Minimum temperature is 64°F in June and 56°F in December. 
+- Maximum temperature is 85°F in June and 83°F in December. This suggests the potential high temperature is nearly the same as it is in June.
 
 ## Summary
 
@@ -34,6 +34,7 @@ Some data points to note from the above images:
 Looking at the station that recorded the most data points, USC00519281, the above graphs continue to support the moderate temperatures at Oahu. 
 - The most frequent bin of recorded temperatures in June is approximately 71°F.
 - The most frequent bin of recorded temperatures in December is approximately 69°F, followed by approximately 74°F.
+
 There is not a big difference in the temperatures recorded in June and December. This data supports the theory that the surf and ice cream shop could be open year-round and get plenty of business no matter the time of year. With the high temperature of 83°F in December, customers would still be looking for a way to cool off in the winter months.
 
 Would recommend to continue analysis of June and December with similar looks at precipitation, since the investor has major concerns about being "rained out".
